@@ -1,3 +1,3 @@
-# Tutorial
+# This is some updated code.
 
-This is my tutorial repository.
+Print 'Hello World'
